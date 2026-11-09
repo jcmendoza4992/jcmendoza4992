@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VoicePilot</string>
+    <string name="notif_label">VoicePilot message replies</string>
+    <string name="service_desc">Lets you control the phone by voice when the touch screen is unreliable. VoicePilot listens for spoken commands, reads what is on screen to find buttons and text fields, and performs taps, swipes and typing for you. Nothing is sent to the app developer; the app has no internet permission.</string>
+</resources>
